@@ -1,0 +1,40 @@
+{
+  "cropForm": {
+    "cropType": "🚜 Crop Type",
+    "selectCrop": "Select Crop",
+    "soilType": "🌱 Soil Type",
+    "selectSoil": "Select Soil",
+    "irrigationMethod": "💧 Irrigation Method",
+    "selectMethod": "Select Method",
+    "annualRainfall": "☔ Annual Rainfall (mm)",
+    "rainfallPlaceholder": "e.g. 1200",
+    "farmLocation": "📍 Farm Location",
+    "locationPlaceholder": "e.g. Pune, Maharashtra",
+    "getRecommendation": "Get Smart Recommendation",
+    "analyzingData": "Analyzing Data..."
+  },
+  "crops": {
+    "rice": "Rice",
+    "wheat": "Wheat",
+    "corn": "Corn",
+    "soybean": "Soybean",
+    "cotton": "Cotton"
+  },
+  "soilTypes": {
+    "clay": "Clay",
+    "sandy": "Sandy",
+    "loamy": "Loamy",
+    "black": "Black Soil",
+    "red": "Red Soil"
+  },
+  "irrigationMethods": {
+    "drip": "Drip Irrigation",
+    "sprinkler": "Sprinkler Irrigation",
+    "surface": "Surface Irrigation",
+    "manual": "Manual Watering"
+  },
+  "header": {
+    "title": "Smart Crop Breeding Advisor",
+    "subtitle": "Get AI-powered recommendations for optimal crop selection"
+  }
+}

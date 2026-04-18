@@ -1,0 +1,40 @@
+{
+  "cropForm": {
+    "cropType": "🚜 फसल प्रकार",
+    "selectCrop": "फसल चुनें",
+    "soilType": "🌱 मिट्टी का प्रकार",
+    "selectSoil": "मिट्टी चुनें",
+    "irrigationMethod": "💧 सिंचाई विधि",
+    "selectMethod": "विधि चुनें",
+    "annualRainfall": "☔ वार्षिक वर्षा (मिमी)",
+    "rainfallPlaceholder": "उदा. 1200",
+    "farmLocation": "📍 खेत का स्थान",
+    "locationPlaceholder": "उदा. पुणे, महाराष्ट्र",
+    "getRecommendation": "स्मार्ट सिफारिश प्राप्त करें",
+    "analyzingData": "डेटा का विश्लेषण किया जा रहा है..."
+  },
+  "crops": {
+    "rice": "चावल",
+    "wheat": "गेहूँ",
+    "corn": "मक्का",
+    "soybean": "सोयाबीन",
+    "cotton": "कपास"
+  },
+  "soilTypes": {
+    "clay": "चिकनी मिट्टी",
+    "sandy": "रेतीली मिट्टी",
+    "loamy": "दोमट मिट्टी",
+    "black": "काली मिट्टी",
+    "red": "लाल मिट्टी"
+  },
+  "irrigationMethods": {
+    "drip": "ड्रिप सिंचाई",
+    "sprinkler": "स्प्रिंकलर सिंचाई",
+    "surface": "सतह सिंचाई",
+    "manual": "हाथ से पानी देना"
+  },
+  "header": {
+    "title": "स्मार्ट फसल प्रजनन सलाहकार",
+    "subtitle": "इष्टतम फसल चयन के लिए AI-संचालित सिफारिशें प्राप्त करें"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "cropForm": {
+    "cropType": "🚜 पिकाचा प्रकार",
+    "selectCrop": "पीक निवडा",
+    "soilType": "🌱 जमिनीचा प्रकार",
+    "selectSoil": "जमीन निवडा",
+    "irrigationMethod": "💧 सिंचन पद्धत",
+    "selectMethod": "पद्धत निवडा",
+    "annualRainfall": "☔ वार्षिक पाऊस (मिमी)",
+    "rainfallPlaceholder": "उदा. 1200",
+    "farmLocation": "📍 शेताचे स्थान",
+    "locationPlaceholder": "उदा. पुणे, महाराष्ट्र",
+    "getRecommendation": "स्मार्ट शिफारस मिळवा",
+    "analyzingData": "डेटाचे विश्लेषण केले जात आहे..."
+  },
+  "crops": {
+    "rice": "तांदूळ",
+    "wheat": "गहू",
+    "corn": "मका",
+    "soybean": "सोयाबीन",
+    "cotton": "कापूस"
+  },
+  "soilTypes": {
+    "clay": "चिकणमाती",
+    "sandy": "वालुकामाती",
+    "loamy": "देठमाती",
+    "black": "काळी माती",
+    "red": "लाल माती"
+  },
+  "irrigationMethods": {
+    "drip": "टपटप सिंचन",
+    "sprinkler": "स्प्रिंकलर सिंचन",
+    "surface": "पृष्ठभाग सिंचन",
+    "manual": "हाताने पाणी देणे"
+  },
+  "header": {
+    "title": "स्मार्ट पिक विकास सल्लागार",
+    "subtitle": "अनुकूल पिक निवडीसाठी AI-आधारित शिफारसी मिळवा"
+  }
+}
