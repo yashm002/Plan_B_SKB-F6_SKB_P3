@@ -2,7 +2,7 @@
 TEAM NAME **- **Plan_B**
 
 **Members Name:**
-Prathamesh Ghormade
+Prathmesh Ghormade
 Pratham Bhosale
 Swayam Allewar
 Ritesh Gajbhiye
